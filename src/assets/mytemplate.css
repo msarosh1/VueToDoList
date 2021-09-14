@@ -1,0 +1,23 @@
+.back-pattern {
+  width: 1366px;
+  background-image: url("./24640971-floral-black-and-yellow-doodle-seamless-pattern.jpg");
+  background-repeat: repeat;
+  position: relative;
+}
+
+.rem-button {
+  margin: 0px 5px;
+}
+
+.addNote {
+  width: 200px;
+  height: 50px;
+  font-size: large;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.newToDo {
+  margin: 10px 10px;
+}
